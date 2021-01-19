@@ -3,7 +3,7 @@ const {
   fillupArrayCount,
   fillupArrayPercent,
   ProportionalCustomerDistribution,
-} = require("./dist/dists.js");
+} = require("./dist/CustomerDistributions.js");
 const { runInAction, autorun, observable, reaction } = require("mobx");
 
 const expect = (...m) => console.log("expect:", ...m);
