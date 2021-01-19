@@ -2,7 +2,7 @@
   "name": "customerdists",
   "version": "1.0.0",
   "description": "",
-  "main": "dists.js",
+  "main": "dist/CustomerDistributions.js",
   "scripts": {
     "build": "tsc",
     "watch": "tsc --watch"
